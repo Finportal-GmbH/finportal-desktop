@@ -8,7 +8,7 @@ Download the latest version from
 Once installed, the app keeps itself up to date.
 
 - **Mac (Apple silicon):** the `.dmg` file.
-- **Windows:** the `Setup .exe` file.
+- **Windows:** not released yet.
 
 You need a Finportal account to use it: <https://app.finportal.ch>.
 
